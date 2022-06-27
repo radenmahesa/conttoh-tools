@@ -4,10 +4,10 @@
 date_default_timezone_set('Asia/Jakarta');
 require_once("sdata-modules.php");
 /**
- * @Author: Mr.Dominick98
+ * @Author: Mr.D0minick98
  * @Date:   2018-08-17 15:13:34
- * @Last Modified by:    Mr.Dominick98
- * @Last Modified time: 2018-08-30 17:21:34
+ * @Instagram.  :   @domminick98
+ * @Last Modified time: 2022-06-28 17:21:34
 */
 ##############################################################################################################
 $config['deviceCode'] 		= '3551230xxxxxxx';
